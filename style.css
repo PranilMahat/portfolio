@@ -1,0 +1,8 @@
+.hero {
+  min-height: 60vh;
+  background: linear-gradient(
+    91.11deg,
+    #eef20b 2.14%,
+    rgba(36, 196, 10, 0.58) 73.61%
+  );
+}
